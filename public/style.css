@@ -1,0 +1,27 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/bg.jpg);
+}
+
+img{
+  height: 200px;
+}
+
+input {
+  margin-top: 20px;
+}
+
+button {
+  width: 80px;
+  float: left;
+}
+
+.container {
+  border: 5px solid pink;
+  width: 30%;
+  background: white;
+  margin-top: 50px;
+  /* display: flex;
+  flex-direction: column; */
+}
