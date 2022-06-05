@@ -1,13 +1,17 @@
-## Installation
+# fullstack2
 
-1. Clone repo
-2. run `npm install`
+# Kitten Image Uploader
 
-## Usage
+Users are able to login, and upload cute pictures of kittens! 
 
-1. run `node server.js`
-2. Navigate to `localhost:8080`
+![image](https://user-images.githubusercontent.com/102040536/172030320-85219e8d-351a-48a7-88c5-851d90484ae0.png)
 
-## Credit
 
-Modified from Scotch.io's auth tutorial
+## How It's Made:
+
+Languages/frameworks use: HTML, CSS, JavaScript, Node.js, MongoDB, Express
+
+
+## Thoughts:
+
+This project was pretty challenging to say the least. It was pretty difficult figuring out a way for the database to hold images and to store them. I did learn a few new things - and worked with multer for the first time. So that was interesting. I might look to Cloudinary next time, or with another image storing database and see if that is any easier. 
